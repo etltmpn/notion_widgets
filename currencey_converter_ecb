@@ -1,0 +1,7 @@
+<!--Currency Converter widget by FreeCurrencyRates.com -->
+
+<div id='gcw_mainFq5WmtZHs' class='gcw_mainFq5WmtZHs'></div>
+<a id='gcw_siteFq5WmtZHs' href='https://freecurrencyrates.com/en/'>FreeCurrencyRates.com</a>
+<script>function reloadFq5WmtZHs(){ var sc = document.getElementById('scFq5WmtZHs');if (sc) sc.parentNode.removeChild(sc);sc = document.createElement('script');sc.type = 'text/javascript';sc.charset = 'UTF-8';sc.async = true;sc.id='scFq5WmtZHs';sc.src = 'https://freecurrencyrates.com/en/widget-vertical?iso=GBP-USD-EUR-THB-PHP-MYR-SGD-AUD&df=1&p=Fq5WmtZHs&v=fits&source=eucb&width=245&width_title=0&firstrowvalue=1&thm=666666,000000,333333,333333,FFFFFF,666666,555555,ffffff,ffffff&title=Currency%20Converter&tzo=-420';var div = document.getElementById('gcw_mainFq5WmtZHs');div.parentNode.insertBefore(sc, div);} reloadFq5WmtZHs(); </script>
+<!-- put custom styles here: .gcw_mainFq5WmtZHs{}, .gcw_headerFq5WmtZHs{}, .gcw_ratesFq5WmtZHs{}, .gcw_sourceFq5WmtZHs{} -->
+<!--End of Currency Converter widget by FreeCurrencyRates.com -->
